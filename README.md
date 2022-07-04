@@ -32,3 +32,21 @@ Usamos "apollo" no lugar do axios/fetch para requisições no graphql
 - Para gerar um svg a partir do layout do figma, basta selecionar o grupo, clicar com o botão direito e copiar como SVG, feito isso no site "https://svg2jsx.com/" pode colar esse SVG e obter um componente do React
 
 - Não olhar as tags do HTML como estilização (ex: strong pq deixa negrito), deve-se olhar pela semântica delas
+
+========== AULA 3 ==========
+
+- Usamos a biblioteca vimejs para trabalhar com vídeos (https://vimejs.com/)
+
+========== AULA 4 ==========
+
+- Permanent Auth Tokens para escrita de dados no graphcms
+
+- Public Content API para leitura de dados no graphcms
+
+========== AULA 5 ==========
+
+- Ferramenta para quem trabalha com graphql (https://www.graphql-code-generator.com/)
+
+- Graphql codegen é usado apenas em desenvolvimento.
+
+- Instalação das bibliotecas do graphql-code-generator: (npm i @graphql-codegen/typescript @graphql-codegen/typescript-operations @graphql-codegen/typescript-react-apollo @graphql-codegen/cli -D)
