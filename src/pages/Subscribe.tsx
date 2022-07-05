@@ -2,6 +2,7 @@ import { FormEvent, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Logo } from "../components/Logo";
 import { useCreateSubscriberMutation } from "../graphql/generated";
+import codeMockUpImage from '../assets/code-mockup.png';
 
 // medida em "rem" * 16 = medida em "px"
 
@@ -69,7 +70,7 @@ export function Subscribe() {
                 </div>
             </div>
 
-            <img src="../assets/code-mockup.png" className="mt-10" alt="" />
+            <img src={codeMockUpImage} className="mt-10" alt="" />
         </div>
     );
 }
