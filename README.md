@@ -4,7 +4,7 @@
 ![imagem-de-apresentacao](https://ik.imagekit.io/ghmg33v8b/react-ignite-lab-presentation_CCA2ee5wA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657061982914)
 
 ## 🌐 Status
-<p>Projeto finalizado ✅</p>
+<p>Finished project ✅</p>
 
 ## 🧰 Prerequisites
 <p>Node JS v 16.x</p>
